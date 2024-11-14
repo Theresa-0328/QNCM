@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Res">
+        <file>Svg/Close.svg</file>
+        <file>Svg/SliderHandle.svg</file>
+        <file>Img/Icon.png</file>
+        <file>Svg/lyrics.svg</file>
+        <file>Svg/listenTogether.svg</file>
+        <file>Svg/playlist.svg</file>
+        <file>Svg/volume.svg</file>
+        <file>Svg/whaleSound.svg</file>
+        <file>Svg/logo.svg</file>
+        <file>Svg/title.svg</file>
+        <file>Svg/backward.svg</file>
+        <file>Svg/mute.svg</file>
+        <file>Svg/clearBtn.svg</file>
+        <file>Svg/soundbound.svg</file>
+        <file>Svg/close.svg</file>
+        <file>Svg/maximize.svg</file>
+        <file>Svg/mini.svg</file>
+        <file>Svg/minimize.svg</file>
+        <file>Svg/restore.svg</file>
+        <file>Svg/message.svg</file>
+        <file>Svg/setting.svg</file>
+        <file>Svg/skin.svg</file>
+        <file>Svg/unfold.svg</file>
+        <file>Svg/VIP0.svg</file>
+    </qresource>
+</RCC>

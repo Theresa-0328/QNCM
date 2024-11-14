@@ -2,3 +2,6 @@
 /.vs
 /Note
 *.aps
+/Src/Resources/Icon.ico
+/Src/Resources/Svg
+/Src/Resources/Img
